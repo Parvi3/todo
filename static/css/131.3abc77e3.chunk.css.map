@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/131.3abc77e3.chunk.css","mappings":"AAAA,MAGC,eAAgB,CAFhB,QAAS,CACT,SAED","sources":["Components/TaskList/taskList.css"],"sourcesContent":[".list {\n\tmargin: 0;\n\tpadding: 0;\n\tlist-style: none;\n}\n"],"names":[],"sourceRoot":""}
